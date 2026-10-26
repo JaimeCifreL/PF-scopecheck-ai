@@ -1,0 +1,29 @@
+
+# Python
+backend/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Variables privadas
+.env
+.env.*
+!.env.example
+!.env.local.example
+
+# Next.js
+node_modules/
+.next/
+out/
+dist/
+*.tsbuildinfo
+
+# Archivos locales
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Documentos privados o temporales
+uploads/
+temp/
+*.log

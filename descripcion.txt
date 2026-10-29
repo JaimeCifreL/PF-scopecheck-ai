@@ -1,0 +1,9 @@
+Aplicación web desarrollada con Next.js, React, TypeScript, Python y FastAPI que permite comparar diferentes versiones de documentos PDF, detectar modificaciones y visualizar las diferencias directamente sobre los documentos.
+
+Incluye detección de texto añadido, eliminado o modificado, clasificación de cambios en importes, fechas y plazos, búsqueda de contenido y visualización interactiva de las diferencias mediante un visor de PDF.
+
+Integra inteligencia artificial local mediante Ollama para interpretar las modificaciones, analizar su impacto semántico e identificar cambios potencialmente relevantes, manteniendo la privacidad de los documentos sin depender de servicios externos de IA.
+
+Tecnologías: Next.js · React · TypeScript · Tailwind CSS · Python · FastAPI · PyMuPDF · Ollama
+
+Objetivo: automatizar la comparación y revisión de documentos, facilitar la identificación de cambios significativos y reducir el tiempo dedicado al análisis manual mediante inteligencia artificial.

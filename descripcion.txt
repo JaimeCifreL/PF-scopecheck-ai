@@ -1,3 +1,5 @@
+Comparación inteligente de documentos PDF con detección visual de diferencias y análisis semántico mediante IA local.
+
 Aplicación web desarrollada con Next.js, React, TypeScript, Python y FastAPI que permite comparar diferentes versiones de documentos PDF, detectar modificaciones y visualizar las diferencias directamente sobre los documentos.
 
 Incluye detección de texto añadido, eliminado o modificado, clasificación de cambios en importes, fechas y plazos, búsqueda de contenido y visualización interactiva de las diferencias mediante un visor de PDF.
